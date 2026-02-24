@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Sunny Bhull, a passionate Java Developer focused on building scalable and secure backend applications using Spring Boot and MySQL. I have hands-on experience developing RESTful APIs, implementing JWT-based authentication, and designing clean, maintainable backend architectures. I also understand frontend integration using React.js and Tailwind CSS, enabling me to build complete and well-structured web applications.<br><br>I am continuously improving my backend development skills, strengthening my knowledge in system design and working on real-world projects to build production-ready applications.
+I am Sunny Bhull, a passionate Java Full-Stack Developer focused on building scalable and secure backend applications using Spring Boot and MySQL. I have hands-on experience developing RESTful APIs, implementing JWT-based authentication, and designing clean, maintainable backend architectures. I also understand frontend integration using React.js and Tailwind CSS, enabling me to build complete and well-structured web applications.<br><br>I am continuously improving my backend development skills, strengthening my knowledge in system design and working on real-world projects to build production-ready applications.
 
 
 ## 🌐 Socials:
